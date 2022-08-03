@@ -381,15 +381,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
         except Exception as e:
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-                await asyncio.sleep(60)
-                await msg1.delete()            
-                await ms.delete()
-                del msg1, ms
-            except Exception as e:
-                logger.exception(e, exc_info=True)
-                await query.answer(f"Encountering Issues", True)
-
-
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
             await query.answer("I Like Your Smartness, But Don't Be Oversmart 😒...\n\n 😳 bro niche diye gye updates channel ko join karo  jab tak aap updates channel join nahi karte tab tak bot apko movie nahi dega! ", show_alert=True)
