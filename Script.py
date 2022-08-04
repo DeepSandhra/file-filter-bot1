@@ -1,10 +1,10 @@
 class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>✮ 🄼🅈 🄽🄰🄼🄴: <a href=https://t.me/RM_AutoFilterBot>🅁🄰🅂🄼🄸🄺🄰👸</a>
-<b>✮ 🄲🅁🄴🄰🅃🄾🅁: <a href=https://telegram.dog/Akshay_Chand>🄰🄺🅂🄷🄰🅈❤️</a>
-<b>✮ 🄾🅆🄽🄴🅁: <a href=https://t.me/Akanksha695>🄰🄺🄰🄽🄺🅂🄷🄰💝</a>
-<b>✮ 🄰🄳🄼🄸🄽: <a href=https://telegram.dog/Amol_789>🄰🄼🄾🄻💌</a>
+    ABOUT_TXT = """<b>✮ 🄼🅈 🄽🄰🄼🄴: <a href=https://t.me/AutoFilterV4_Robot>Mᴏᴏsᴇ ᴡᴀʟᴀ🥊</a>
+<b>✮ 🄲🅁🄴🄰🅃🄾🅁: <a href=https://t.me/AutoFilterV4_Robot>Mᴏᴏsᴇ ᴡᴀʟᴀ🥊</a>
+<b>✮ 🄾🅆🄽🄴🅁: <a href=https://t.me/movi2x>Kᕼᴜsᕼ💝</a>
+<b>✮ 🄰🄳🄼🄸🄽: <a href=https://t.me/punjabi_funn>ᴘᴜɴᴊᴀʙɪ ꜰᴜɴɴ</a>
 <b>✮ 🄻🄸🄱🅁🄰🅁🅈: 🄿🅁🄾🄶🅁🄰🄼</b>
 <b>✮ 🄻🄰🄽🄶🅄🄰🄶🄴: 🄿🅈🅃🄷🄾🄽 𝟹</b>
 <b>✮ 🄳🄰🅃🄰🄱🄰🅂🄴: 🄼🄾🄽🄶🄾🄳🄱</b>
@@ -13,9 +13,9 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 <b>✮ 𝚁𝙰𝚂𝙷𝙼𝙸𝙺𝙰 𝙼𝙰𝙽𝙳𝙰𝙽𝙽𝙰 𝙽𝙾𝚃 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃
 <b>✮ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʙᴏᴛ ᴍᴀᴅᴇ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴏʀ ᴀᴅᴍɪɴ
-<b>✮ 🄲🅁🄴🄰🅃🄾🅁: <a href=https://telegram.dog/Akshay_Chand>🄰🄺🅂🄷🄰🅈❤️</a>
-<b>✮ 🄾🅆🄽🄴🅁: <a href=https://t.me/Akanksha695>🄰🄺🄰🄽🄺🅂🄷🄰💝</a>
-<b>✮ 🄰🄳🄼🄸🄽: <a href=https://telegram.dog/Amol_789>🄰🄼🄾🄻💌</a>"""
+<b>✮ 🄲🅁🄴🄰🅃🄾🅁: <a href=https://t.me/AutoFilterV4_Robot>Mᴏᴏsᴇ ᴡᴀʟᴀ🥊</a>
+<b>✮ 🄾🅆🄽🄴🅁: <a href=https://t.me/movi2x>Kᕼᴜsᕼ💝</a>
+<b>✮ 🄰🄳🄼🄸🄽: <a href=https://t.me/punjabi_funn>ᴘᴜɴᴊᴀʙɪ ꜰᴜɴɴ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -107,7 +107,7 @@ Name - {}
 """
 
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://telegram.dog/RM_AutoFilterBot>🅁🄰🅂🄼🄸🄺🄰</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂,𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 💝"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/AutoFilterV4_Robot>Mᴏᴏsᴇ ᴡᴀʟᴀ🥊</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂,𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 💝"""
     GHHM_TXT = """<b>💖 Thanks For Your Support...
 
 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖮𝗎𝗋 𝖡𝗈𝗍 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇, 𝖨𝗍 𝖶𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌 𝖳𝗁𝖾𝗋𝖾... 😎
@@ -138,7 +138,7 @@ Name - {}
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲     
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Akshay_Chand><b>AKSHAY</b></a>᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/movi2x><b>Kᕼᴜsᕼ</b></a>᚛━━━━━━━━━━━━"""
     DINETTE_TXT =  """<b>Donation</b>
 
    <b>Developer is Super Noob..  Just Learning from Official Docs..  Please Donate the developer for Keeping the Service Alive...</b>
@@ -152,7 +152,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲     
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Akshay_Chand><b>AKSHAY</b></a>᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/movi2x><b>Kᕼᴜsᕼ</b></a>᚛━━━━━━━━━━━━"""
 
 
     URLSHORT_TXT = """<b>➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
@@ -242,9 +242,9 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 
     OWNER_TXT = """<b>>━━━━᚜ bot Dev. Details ᚛━━━━<
     
-<b>✮ 🄲🅁🄴🄰🅃🄾🅁: <a href=https://telegram.dog/Akshay_Chand>🄰🄺🅂🄷🄰🅈❤️</a>
-<b>✮ 🄾🅆🄽🄴🅁: <a href=https://t.me/Akanksha695>🄰🄺🄰🄽🄺🅂🄷🄰💝</a>
-<b>✮ 🄰🄳🄼🄸🄽: <a href=https://telegram.dog/Amol_789>🄰🄼🄾🄻💌</a>"""
+<b>✮ 🄲🅁🄴🄰🅃🄾🅁: <a href=https://t.me/AutoFilterV4_Robot>Mᴏᴏsᴇ ᴡᴀʟᴀ🥊</a>
+<b>✮ 🄾🅆🄽🄴🅁: <a href=https://t.me/movi2x>Kᕼᴜsᕼ💝</a>
+<b>✮ 🄰🄳🄼🄸🄽: <a href=https://t.me/punjabi_funn>ᴘᴜɴᴊᴀʙɪ ꜰᴜɴɴ</a>"""
 
     GROUP_R_TXT = """<b>GROUP RULES
 
@@ -288,10 +288,10 @@ ADG = """<b>Hay. {}..\n\nThankyou For Adding Me In.. ❣️
 
              👉 <s>{}</s> 👈 
 
-If you have any questions & doubts about using me..\n\n Contact my Owner >> @Akanksha789_bot</b>"""
+If you have any questions & doubts about using me..\n\n Contact my Owner >> https://t.me/AutoFilterV4_Robot</b>"""
 
 ADDG = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://telegram.dog/RM_AutoFilterBot>🅁🄰🅂🄼🄸🄺🄰</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂,𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 💝"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href= @AutoFilterV4_Robot>Mᴏᴏsᴇ ᴡᴀʟᴀ🥊</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂,𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 💝"""
 
 
 M_NT_FND = """<b>⭕️ This Movie Not Found my Database. Request to admin..\n\n⭕️ Ye movie Hamare database me Available nahi hai Niche admin se request kare... \n\n⭕️ Request to admin.. 👇</b>"""
